@@ -1,0 +1,7 @@
+
+<squid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+msquid:S1192"SDefine a constant instead of duplicating this literal "Enter the node id:" 3 times.(ý«€Žúÿÿÿÿ
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÌÏÔ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ò›õ¦
+Rsquid:S1854"8Remove this useless assignment to local variable "node".(»©‚¥úÿÿÿÿ
+Zsquid:S2147"ECombine this catch with the one at line 108, which has the same body.(”ý¾

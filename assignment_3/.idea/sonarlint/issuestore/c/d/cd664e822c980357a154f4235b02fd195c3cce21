@@ -1,0 +1,14 @@
+
+‚"squid:ClassVariableVisibilityCheck"QMake nodes a static final constant or non-public and provide accessors if needed.(¸’úÌûÿÿÿÿ
+Qsquid:S2589"7Remove this expression which always evaluates to "true"(ºõ°´ùÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀƒÑô
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿„±ô
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ÌÏÔ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ô”¨ñşÿÿÿÿ
+Gsquid:S1135"2Complete the task associated to this TODO comment.(ËÊğ
+Fsquid:S1135"2Complete the task associated to this TODO comment.(ÖÁ±~
+Lsquid:S1135"2Complete the task associated to this TODO comment.(Û¥ğùøÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ…ºÉ
+Isquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(’ÔÛË
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(í”‹üÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¤Şœâúÿÿÿÿ
